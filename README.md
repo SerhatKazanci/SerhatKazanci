@@ -1,4 +1,4 @@
- *
+ * Hi, I'am Serhat Kazanci 👋
  * 
  *
  *
@@ -9,7 +9,7 @@
 
 Here are some ideas to get you started:
 
--  Hİ, I'am Serhat Kazanci 👋
+- 
 -  I’m interested in JavaScript, C# and Python 👀
 -  I’m currently learning ASP.NET with MVC 🌱
 -  I’m looking to collaborate related to JavaScript, Python and C# 🔭
